@@ -7,8 +7,8 @@
 ### 2.  then write your telegram info in the .env file
 > to get the api_id & api_hash visit : https://my.telegram.org/auth enter your phone then click API development tools and create an instance 
 
-### 3. then get the  telegram groups with hidden members and put them in (groups_with_hidden_memebers.json)
-### 4. then find telegram groups with public members and put them in (groups_with_public_memebers.json)
+### 3. then get the telegram groups with hidden members and put them in (groups_with_hidden_memebers.json)
+### 4. then get the telegram groups with public members and put them in (groups_with_public_memebers.json)
 
 ### 5. write your messsage in sendMessage/sendMessage.py file 
 ### 6. then run:
