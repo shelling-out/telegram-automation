@@ -20,3 +20,4 @@
  
 ### Note: there is some limitations on using this (you can send 20 message every 5 minutes)
 ### todo: script needs to be edited to sleep for 5 minutes each 20 message ..
+### This Project is a modified version of this repo: https://github.com/amiryousefi/telegram-analysis
