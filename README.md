@@ -2,7 +2,7 @@
 ### 1.  Environment setup
 	1. install Python 3.10.9
 	2. then run the following commands:
-	  >pip install telethon
+	    pip install telethon
 	    pip install python-dotenv
 ### 2.  then write your telegram info in the .env file
 > to get the api_id & api_hash visit : https://my.telegram.org/auth enter your phone then click API development tools and create an instance 
